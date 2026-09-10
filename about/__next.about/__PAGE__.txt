@@ -114,7 +114,7 @@ e:I[97367,["/_next/static/chunks/070d8dc__bgz9.js","/_next/static/chunks/0ko_acm
               .prose p code, .prose li code { padding: 0.2rem 0.4rem !important; font-size: 0.9em !important; border-radius: 0.375rem !important;}
               .prose img { margin: 2rem auto !important; border-radius: 2rem !important; box-shadow: 0 20px 50px rgba(0,0,0,0.15) !important; }
             }
-          0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen relative pb-20","children":[["$","$L2",null,{}],["$","$L3",null,{"children":["$","main",null,{"className":"w-[95%] md:w-[90%] max-w-4xl mx-auto mt-24 md:mt-28 relative z-10","children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"$4"}}],"$L5"]}]}]]}],["$L6","$L7","$L8","$L9"],"$La"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"WF3foYFO2kEKyq_kBoIEL"}
+          0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen relative pb-20","children":[["$","$L2",null,{}],["$","$L3",null,{"children":["$","main",null,{"className":"w-[95%] md:w-[90%] max-w-4xl mx-auto mt-24 md:mt-28 relative z-10","children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"$4"}}],"$L5"]}]}]]}],["$L6","$L7","$L8","$L9"],"$La"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"6oMDQoaCKTSQoPb8jnkyl"}
 d:T749,<h2>Hi, I'm Ethan! 👋</h2>
 <p>I'm a student at <strong>Beijing Etown Academy</strong>, passionate about programming, artificial intelligence, and building things that make life better.</p>
 <p>This personal site is my little corner of the internet — a place where I share my projects, thoughts, and everyday moments.</p>
