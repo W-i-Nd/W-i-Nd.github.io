@@ -1,8 +1,176 @@
 [
-  { "title": "Monkeys Spinning Monkeys", "artist": "Kevin MacLeod", "cover": "/cover.jpg", "src": "/music/Monkeys_Spinning_Monkeys.mp3" },
-  { "title": "Carefree", "artist": "Kevin MacLeod", "cover": "/cover.jpg", "src": "/music/Carefree.mp3" },
-  { "title": "Fluffing a Duck", "artist": "Kevin MacLeod", "cover": "/cover.jpg", "src": "/music/Fluffing_a_Duck.mp3" },
-  { "title": "Happy Boy Theme", "artist": "Kevin MacLeod", "cover": "/cover.jpg", "src": "/music/Happy_Boy_Theme.mp3" },
-  { "title": "Sneaky Snitch", "artist": "Kevin MacLeod", "cover": "/cover.jpg", "src": "/music/Sneaky_Snitch.mp3" },
-  { "title": "Blippy Trance", "artist": "Kevin MacLeod", "cover": "/cover.jpg", "src": "/music/Blippy_Trance.mp3" }
+  {
+    "title": "雪 Distance",
+    "artist": "Capper,罗言",
+    "cover": "/cover.jpg",
+    "src": "/music/Capper,罗言 - 雪 Distance.mp3"
+  },
+  {
+    "title": "How Far We Seek (Future Mix)",
+    "artist": "Gargantuan Music",
+    "cover": "/cover.jpg",
+    "src": "/music/Gargantuan Music - How Far We Seek (Future Mix).mp3"
+  },
+  {
+    "title": "Midnight City",
+    "artist": "M83",
+    "cover": "/cover.jpg",
+    "src": "/music/M83 - Midnight City.mp3"
+  },
+  {
+    "title": "一点",
+    "artist": "Muyoi,Pezzi",
+    "cover": "/cover.jpg",
+    "src": "/music/Muyoi,Pezzi - 一点.mp3"
+  },
+  {
+    "title": "愛にできることはまだあるかい",
+    "artist": "RADWIMPS",
+    "cover": "/cover.jpg",
+    "src": "/music/RADWIMPS - 愛にできることはまだあるかい.mp3"
+  },
+  {
+    "title": "苦茶子",
+    "artist": "Starling8,MoreLearn 27,FIVESTAR",
+    "cover": "/cover.jpg",
+    "src": "/music/Starling8,MoreLearn 27,FIVESTAR - 苦茶子.mp3"
+  },
+  {
+    "title": "好きだから。",
+    "artist": "『ユイカ』,れん",
+    "cover": "/cover.jpg",
+    "src": "/music/『ユイカ』,れん - 好きだから。.mp3"
+  },
+  {
+    "title": "あのね。",
+    "artist": "あれくん,『ユイカ』",
+    "cover": "/cover.jpg",
+    "src": "/music/あれくん,『ユイカ』 - あのね。.mp3"
+  },
+  {
+    "title": "起风了",
+    "artist": "买辣椒也用券",
+    "cover": "/cover.jpg",
+    "src": "/music/买辣椒也用券 - 起风了.mp3"
+  },
+  {
+    "title": "想去海边",
+    "artist": "夏日入侵企画",
+    "cover": "/cover.jpg",
+    "src": "/music/夏日入侵企画 - 想去海边.mp3"
+  },
+  {
+    "title": "万物盛开法则",
+    "artist": "大张伟",
+    "cover": "/cover.jpg",
+    "src": "/music/大张伟 - 万物盛开法则.mp3"
+  },
+  {
+    "title": "不炎热的夏天",
+    "artist": "津静公路No.26,Dragon7DISS,汪澍烨",
+    "cover": "/cover.jpg",
+    "src": "/music/津静公路No.26,Dragon7DISS,汪澍烨 - 不炎热的夏天.mp3"
+  },
+  {
+    "title": "Lemon",
+    "artist": "米津玄師",
+    "cover": "/cover.jpg",
+    "src": "/music/米津玄師 - Lemon.mp3"
+  },
+  {
+    "title": "单恋一枝花 (Live)",
+    "artist": "胡彦斌,白举纲",
+    "cover": "/cover.jpg",
+    "src": "/music/胡彦斌,白举纲 - 单恋一枝花 (Live).mp3"
+  },
+  {
+    "title": "错位时空",
+    "artist": "艾辰",
+    "cover": "/cover.jpg",
+    "src": "/music/艾辰 - 错位时空.mp3"
+  },
+  {
+    "title": "丑",
+    "artist": "草东没有派对",
+    "cover": "/cover.jpg",
+    "src": "/music/草东没有派对 - 丑.mp3"
+  },
+  {
+    "title": "但",
+    "artist": "草东没有派对",
+    "cover": "/cover.jpg",
+    "src": "/music/草东没有派对 - 但.mp3"
+  },
+  {
+    "title": "八",
+    "artist": "草东没有派对",
+    "cover": "/cover.jpg",
+    "src": "/music/草东没有派对 - 八.mp3"
+  },
+  {
+    "title": "勇敢的人",
+    "artist": "草东没有派对",
+    "cover": "/cover.jpg",
+    "src": "/music/草东没有派对 - 勇敢的人.mp3"
+  },
+  {
+    "title": "大风吹",
+    "artist": "草东没有派对",
+    "cover": "/cover.jpg",
+    "src": "/music/草东没有派对 - 大风吹.mp3"
+  },
+  {
+    "title": "如常",
+    "artist": "草东没有派对",
+    "cover": "/cover.jpg",
+    "src": "/music/草东没有派对 - 如常.mp3"
+  },
+  {
+    "title": "山海",
+    "artist": "草东没有派对",
+    "cover": "/cover.jpg",
+    "src": "/music/草东没有派对 - 山海.mp3"
+  },
+  {
+    "title": "我们",
+    "artist": "草东没有派对",
+    "cover": "/cover.jpg",
+    "src": "/music/草东没有派对 - 我们.mp3"
+  },
+  {
+    "title": "烂泥",
+    "artist": "草东没有派对",
+    "cover": "/cover.jpg",
+    "src": "/music/草东没有派对 - 烂泥.mp3"
+  },
+  {
+    "title": "缸",
+    "artist": "草东没有派对",
+    "cover": "/cover.jpg",
+    "src": "/music/草东没有派对 - 缸.mp3"
+  },
+  {
+    "title": "鬼",
+    "artist": "草东没有派对",
+    "cover": "/cover.jpg",
+    "src": "/music/草东没有派对 - 鬼.mp3"
+  },
+  {
+    "title": "给你呀（又名：for ya）",
+    "artist": "蒋小呢",
+    "cover": "/cover.jpg",
+    "src": "/music/蒋小呢 - 给你呀（又名：for ya）.mp3"
+  },
+  {
+    "title": "ヤキモチ",
+    "artist": "高橋優",
+    "cover": "/cover.jpg",
+    "src": "/music/高橋優 - ヤキモチ.mp3"
+  },
+  {
+    "title": "起风了",
+    "artist": "龚明威",
+    "cover": "/cover.jpg",
+    "src": "/music/龚明威 - 起风了.mp3"
+  }
 ]
