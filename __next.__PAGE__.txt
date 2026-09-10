@@ -1,0 +1,48 @@
+1:"$Sreact.fragment"
+2:I[26015,["/_next/static/chunks/0y-67pe2lld-o.js","/_next/static/chunks/0.1~~qxg6j3ms.js","/_next/static/chunks/00-csyj9a6t-x.js","/_next/static/chunks/0vf9h7p_fk8xr.js"],"ToastProvider"]
+3:I[62319,["/_next/static/chunks/0y-67pe2lld-o.js","/_next/static/chunks/0.1~~qxg6j3ms.js","/_next/static/chunks/00-csyj9a6t-x.js","/_next/static/chunks/0vf9h7p_fk8xr.js"],"default"]
+4:I[66357,["/_next/static/chunks/0y-67pe2lld-o.js","/_next/static/chunks/0.1~~qxg6j3ms.js","/_next/static/chunks/00-csyj9a6t-x.js","/_next/static/chunks/0vf9h7p_fk8xr.js"],"default"]
+5:I[69950,["/_next/static/chunks/0y-67pe2lld-o.js","/_next/static/chunks/0.1~~qxg6j3ms.js","/_next/static/chunks/00-csyj9a6t-x.js","/_next/static/chunks/0vf9h7p_fk8xr.js"],"default"]
+a:I[55183,["/_next/static/chunks/0y-67pe2lld-o.js","/_next/static/chunks/0.1~~qxg6j3ms.js","/_next/static/chunks/00-csyj9a6t-x.js","/_next/static/chunks/0vf9h7p_fk8xr.js"],"default"]
+b:I[5562,["/_next/static/chunks/0y-67pe2lld-o.js","/_next/static/chunks/0.1~~qxg6j3ms.js","/_next/static/chunks/00-csyj9a6t-x.js","/_next/static/chunks/0vf9h7p_fk8xr.js"],"default"]
+c:I[39470,["/_next/static/chunks/0y-67pe2lld-o.js","/_next/static/chunks/0.1~~qxg6j3ms.js","/_next/static/chunks/00-csyj9a6t-x.js","/_next/static/chunks/0vf9h7p_fk8xr.js"],"default"]
+d:I[36653,["/_next/static/chunks/0y-67pe2lld-o.js","/_next/static/chunks/0.1~~qxg6j3ms.js","/_next/static/chunks/00-csyj9a6t-x.js","/_next/static/chunks/0vf9h7p_fk8xr.js"],"default"]
+e:I[22016,["/_next/static/chunks/0y-67pe2lld-o.js","/_next/static/chunks/0.1~~qxg6j3ms.js","/_next/static/chunks/00-csyj9a6t-x.js","/_next/static/chunks/0vf9h7p_fk8xr.js"],""]
+f:I[62581,["/_next/static/chunks/0y-67pe2lld-o.js","/_next/static/chunks/0.1~~qxg6j3ms.js","/_next/static/chunks/00-csyj9a6t-x.js","/_next/static/chunks/0vf9h7p_fk8xr.js"],"default"]
+10:I[6461,["/_next/static/chunks/0y-67pe2lld-o.js","/_next/static/chunks/0.1~~qxg6j3ms.js","/_next/static/chunks/00-csyj9a6t-x.js","/_next/static/chunks/0vf9h7p_fk8xr.js"],"default"]
+11:I[53832,["/_next/static/chunks/0y-67pe2lld-o.js","/_next/static/chunks/0.1~~qxg6j3ms.js","/_next/static/chunks/00-csyj9a6t-x.js","/_next/static/chunks/0vf9h7p_fk8xr.js"],"default"]
+12:I[97367,["/_next/static/chunks/0y-67pe2lld-o.js","/_next/static/chunks/0.1~~qxg6j3ms.js","/_next/static/chunks/00-csyj9a6t-x.js"],"OutletBoundary"]
+13:"$Sreact.suspense"
+:HL["/cover.jpg","image"]
+6:T54c,
+## A Study on a Computer Vision-Based Intelligent Sail-Shaping Control Assistance System for Sailing Training
+
+Sailing is a sport of precision. The shape of the sail directly affects speed and control — but for trainees, reading the sail and adjusting it correctly takes years of practice. My project asks: **can computer vision help?**
+
+### The problem
+
+- Sail shape is hard to observe and judge, especially for beginners
+- Feedback from coaches is subjective and not always available
+- Existing systems are either too expensive or too complex for routine training
+
+### The idea
+
+Use cameras to capture the sail in real time, analyze its shape with computer vision algorithms, and provide **intelligent assistance** for sail adjustment during training.
+
+### What I've learned along the way
+
+- Camera calibration and image preprocessing
+- Contour detection for sail shape extraction
+- Building a feedback pipeline that turns visual data into actionable advice
+- Combining **Python** (prototyping & AI) with **C++** (performance-critical parts)
+
+### Why it matters
+
+This kind of assistive system could make sailing training more accessible and effective — helping beginners learn faster and letting coaches focus on strategy rather than basic corrections.
+
+This is still an ongoing study, and I'm excited to keep developing it. Stay tuned for updates!
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"children":["$","div",null,{"className":"min-h-screen relative pb-10","children":[["$","$L3",null,{}],["$","$L4",null,{"children":["$","div",null,{"className":"w-full max-w-6xl mx-auto mt-24 sm:mt-28 px-4 sm:px-6 lg:px-10 relative z-10","children":[["$","$L5",null,{"posts":[{"slug":"long-test-article","title":"My Research Project: Computer Vision for Sailing Training","date":"2026-09-08 10:00:00","description":"An overview of my study on an intelligent sail-shaping control assistance system.","cover":"/cover.jpg","tags":["Research","Computer Vision","Sailing","AI"],"content":"$6","formattedDate":"2026.09.08 10:00"},{"slug":"2222","title":"Learning Notes: Python for Computer Vision","date":"2026-09-05 09:30:00","description":"Notes from my journey learning computer vision with Python.","cover":"/cover.jpg","tags":["Python","Computer Vision","Learning"],"content":"\n## Why Python for Computer Vision\n\nPython has become the go-to language for computer vision — and for good reason. The ecosystem is incredible: OpenCV, NumPy, and deep learning frameworks like PyTorch make it easy to go from idea to prototype.\n\n### What I've been practicing\n\n1. **Image processing basics** — filtering, edge detection, color spaces\n2. **Object detection** — using pre-trained models and fine-tuning them\n3. **Video analysis** — tracking moving objects across frames\n\n### A small snippet\n\nHere's a classic edge-detection example with OpenCV:\n\n```python\nimport cv2\n\nimg = cv2.imread(\"input.jpg\")\ngray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)\nedges = cv2.Canny(gray, 100, 200)\n\ncv2.imwrite(\"edges.jpg\", edges)\n```\n\n### What's next\n\nI'm applying these skills to my research project on intelligent sail-shaping control for sailing training. More on that in another post!\n","formattedDate":"2026.09.05 09:30"},{"slug":"first","title":"Welcome to My Little Corner of the Internet","date":"2026-09-01 08:00:00","description":"A short welcome post about this personal site.","cover":"/cover.jpg","tags":["Welcome","Personal"],"content":"\n## Hello World!\n\nWelcome to my personal site! This is where I share my projects, notes, and daily life.\n\n### Why I built this site\n\nI wanted a place that truly feels like *mine* — a space to:\n\n- Showcase my **projects** and research\n- Write about what I'm **learning**\n- Share moments and thoughts from daily life\n\n### What you'll find here\n\n- **Projects** — things I'm building and studying\n- **Posts** — longer articles and learning notes\n- **Moments** — quick updates, like a mini social feed\n- **About** — a bit more about who I am\n\nThanks for stopping by. Stay curious, and check back often!\n","formattedDate":"2026.09.01 08:00"}]}],"$L7"]}]}]]}]}],["$L8"],"$L9"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"nMOLyXCool5s-VNWTpVa2"}
+7:["$","main",null,{"className":"flex flex-col gap-6 w-full mt-6","children":[["$","div",null,{"className":"grid grid-cols-1 lg:grid-cols-12 gap-6 w-full","children":[["$","div",null,{"className":"col-span-1 lg:col-span-7 flex flex-col","children":["$","$La",null,{"postCount":3,"chatterCount":1,"photoCount":0}]}],["$","div",null,{"className":"col-span-1 lg:col-span-5 flex flex-col","children":["$","$Lb",null,{}]}]]}],["$","div",null,{"className":"w-full mt-[-10px]","children":["$","$Lc",null,{}]}],["$","div",null,{"className":"grid grid-cols-1 lg:grid-cols-12 gap-6 w-full","children":[["$","div",null,{"className":"col-span-1 lg:col-span-4 flex flex-col min-h-[300px]","children":["$","$Ld",null,{"posts":["$0:rsc:props:children:0:props:children:props:children:1:props:children:props:children:0:props:posts:0","$0:rsc:props:children:0:props:children:props:children:1:props:children:props:children:0:props:posts:1","$0:rsc:props:children:0:props:children:props:children:1:props:children:props:children:0:props:posts:2"]}]}],["$","div",null,{"className":"col-span-1 lg:col-span-8 flex flex-col gap-6","children":[["$","$Le",null,{"href":"/photowall","className":"w-full rounded-3xl bg-white/40 dark:bg-slate-800/50 backdrop-blur-md border border-white/40 dark:border-white/10 shadow-xl overflow-hidden transition-all duration-700 hover:scale-[1.02] relative group min-h-[200px] sm:min-h-[220px] flex-shrink-0","children":[["$","img",null,{"src":"/cover.jpg","className":"w-full h-full absolute inset-0 object-cover transition-transform duration-700 group-hover:scale-105 opacity-90"}],["$","div",null,{"className":"absolute inset-0 bg-black/30 dark:bg-black/50 group-hover:bg-black/10 transition-colors duration-500"}],["$","div",null,{"className":"absolute bottom-4 left-4 sm:bottom-6 sm:left-6 right-6","children":[["$","h3",null,{"className":"text-2xl sm:text-3xl font-bold text-white mb-1 sm:mb-2 underline decoration-pink-400","children":"Gallery"}],["$","p",null,{"className":"text-white/90 text-sm sm:text-lg line-clamp-1","children":"View photos"}]]}]]}],["$","div",null,{"className":"grid grid-cols-1 sm:grid-cols-3 gap-6 w-full flex-1","children":[["$","div",null,{"className":"sm:col-span-2 flex flex-col min-h-[200px]","children":["$","$Lf",null,{"chatters":[{"slug":"2026-03-25-originium-research","title":"Thoughts on AI in Sports","description":"\nSports and AI might seem like an odd pair at first, but the","cover":"https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=1000&auto=format&fit=crop","date":"2026-09-10 08:00:00","formattedDate":"2026.09.10 08:00"}]}]}],["$","div",null,{"className":"sm:col-span-1 flex flex-col min-h-[120px]","children":["$","$L10",null,{}]}]]}]]}]]}],["$","div",null,{"className":"w-full mt-4","children":["$","$L11",null,{}]}]]}]
+8:["$","script","script-0",{"src":"/_next/static/chunks/0vf9h7p_fk8xr.js","async":true}]
+9:["$","$L12",null,{"children":["$","$13",null,{"name":"Next.MetadataOutlet","children":"$@14"}]}]
+14:null
